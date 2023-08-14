@@ -47,3 +47,10 @@ Help Adam gain confidence in further development by automatically testing the mo
 - Please submit a link to your finished repository when you are ready
 
 ## Good luck and happy coding! :)
+
+## Set up Webdriver io automation
+
+1. yarn install command to install all dependencies.
+2. To run script run this command: npm run wdio.
+
+Reference page: https://webdriver.io/docs/gettingstarted/
